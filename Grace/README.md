@@ -3,7 +3,7 @@
 ## Product Developer
 
 
-![Grace 1](C:\Users\DELL\source\reliance\DE-demo\Image.jpg)
+![Grace 1](https://github.com/Graceakanwo/DE-demo/blob/ce64276eaa9117275dbe273ba897748a4b4dad40/Image/Grace%201.jpg)
 
 
 
