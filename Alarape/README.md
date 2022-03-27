@@ -2,7 +2,7 @@
 
 ## Communication 
 
-![]
+![Nimi 1]
 
 
 
